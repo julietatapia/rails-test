@@ -5,3 +5,6 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Usuario.create([{ nombre: 'jose' }, { nombre: 'pedro' }, { nombre: 'ana' }, { nombre: 'luis' }])
+Tecnologia.create([{ nombre: 'sinatra' }, { nombre: 'python' }, { nombre: 'react' }, { nombre: 'rails' }])

@@ -1,7 +1,11 @@
 default: &default
-  adapter:
+  adapter: postgresql
+  encoding: unicode
+  username: root
+  password: '161int'
+  host: localhost
+  port: 5432
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
-  timeout: 5000
 
 development:
   <<: *default
