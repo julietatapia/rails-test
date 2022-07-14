@@ -19,3 +19,5 @@ For your first PR we will ask you to do the following:
 **NOTE 2: This API responds in JSON format, so the controller actions should return a JSON**
 
 **MOST OF THE DECISIONS ARE UP TO YOU, EVERYTHING YOU WANT TO ADD, IMPROVE, OR CHANGE IS ALLOWED, JUST SHOW OFF WHAT YOU KNOW!**
+
+
